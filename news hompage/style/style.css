@@ -1,0 +1,139 @@
+ body{
+    background-color:hsl(36, 100%, 99%) ;
+ }
+ .container{
+    
+    margin-left: 220px;
+    background-color:hsl(36, 100%, 99%);
+    width:1000px;
+    padding: 30px;
+}
+ul{
+    list-style: none;
+    margin-left:312px ;
+   margin-bottom: 50px;
+}
+li{
+    display: inline-block;
+    padding-left:10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    color: hsl(233, 8%, 79%);
+    
+}
+.topnav{
+    overflow:hidden;
+}
+.topnav a{
+   
+    text-decoration: none;
+    color:  hsl(236, 13%, 42%);
+    padding-left:15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: all 0s;
+   
+}
+.topnav a:hover{
+    transform: scale(1.1);
+    background-color: black;
+    color:hsl(36, 100%, 99%);
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:250px;
+    font-weight:bolder;
+    color: black;
+    font-size:xxx-large;
+    margin-bottom:0;
+   
+}
+.paragraph{
+    width:297px;
+    margin-left:260px;
+    margin-top: -150px;
+    font-size:  15px;
+    font-weight: 400px;
+    color:  hsl(236, 13%, 42%);
+   
+    
+   
+}
+button{
+    margin-top: 26px;
+    margin-left: 260px;
+    width:160px;
+    height:40px;
+    color:white;
+    background-color: hsl(5, 85%, 63%) ;
+    border-style: none;
+    font-size: small;
+    padding: 10px;
+    transition:all 0.7s;
+}
+button:hover{
+    transform: scale(1.07);
+}
+.sidebar{
+    height:450px;
+    background-color: black;
+    padding:  17px;   
+    width:280px;
+    margin-left: 590px;
+    margin-top: -499px;
+    
+    margin-bottom: 0px;
+    font-weight: 600;
+    color: hsl(233, 8%, 79%);
+}
+h2{
+   color: hsl(35, 77%, 62%)
+}
+.sh{
+   
+    margin-bottom:3px;
+    font-size: large;
+}
+.sh a{
+    text-decoration: none;
+    color: white;
+}
+.sp{
+    color:  hsl(237, 8%, 54%);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size:  15px;
+    line-height: 26px;    
+}
+.front-img{
+    width:550px; 
+    height:300px;
+}
+.ap{
+    font-weight: 800;
+}
+.ap a{
+    text-decoration: none;
+    color:black;
+    font-weight: bolder;
+}
+.art{
+    color: hsl(236, 13%, 42%);
+}
+.ah{
+    font-size: x-large ;
+    color: hsl(236, 13%, 42%);
+}
+.articles{
+    margin-top: 40px;
+    display:inline-block;
+}
+.ah,.ap,.art{
+    margin-left:120px;
+    width:190px;
+   
+}
+.art-img{
+    margin-bottom: -120px;
+}
